@@ -10,9 +10,10 @@ This tool made for only educational purpose, please don't use it to harm anyone.
 `apt-get upgrade` <br>
 `pkg install git` <br>
 `pkg install python3` <br>
+`pip install colorama` <br>
 `git clone https://github.com/nurhabib1/hexest` <br>
-`cd Hexest` <br>
-`.python3 hexest.py` 
+`cd hexest` <br>
+`python3 hexest.py` 
 
 
 
