@@ -11,7 +11,7 @@ This tool made for only educational purpose, please don't use it to harm anyone.
 `pkg install git` <br>
 `pkg install python3` <br>
 `pip install colorama` <br>
-`git clone https://github.com/nurhabib1/hexest` <br>
+`git clone https://github.com/thenurhabib/hexest` <br>
 `cd hexest` <br>
 `python3 hexest.py` 
 
@@ -33,5 +33,5 @@ I'm a programmer & Linux System Administrator.
 
 ## Author
 
-- [@Md. Nur habib](https://www.github.com/nurhabib1)
+- [@Md. Nur habib](https://www.github.com/thenurhabib)
 
